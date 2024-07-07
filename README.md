@@ -2,7 +2,14 @@
 
 ###
 
-<p align="left">My name is  SANDESH LAKSAMBA  and I'm a Developer, from Taplejung, Nepal</p>
+<h4 align="left">My name is  SANDESH LAKSAMBA  and I'm a Developer, from Taplejung, Nepal.</h4>
+
+  As I continue my journey into blockchain technology, I'm focusing on the following areas: <br>
+- **Smart Contract Development**: Learning Solidity .<br>
+- **Blockchain Platforms**: Exploring Ethereum and other blockchain platforms.<br>
+- **Decentralized Storage**: Understanding IPFS and other decentralized storage solutions.<br>
+- **Security**: Learning best practices for writing secure smart contracts and dApps. 
+
 
 ###
 <div align="left">
@@ -43,7 +50,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS logo" />
+
   <img width="12" />
 
 </div>
