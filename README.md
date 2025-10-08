@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">My name is  SANDESH LAKSAMBA  and I'm a Developer, from Taplejung, Nepal.</h4>
+
 
   As I continue my journey into blockchain technology, I'm focusing on the following areas: <br>
 - **Smart Contract Development**: Learning Solidity .<br>
@@ -32,11 +32,11 @@
 ###
 
 <p align="left">✨ Working on WebApps , DApps .. <br>📚 I'm currently learning blockchain<br>🎯 Goals:  Build and deploy (dApp) & Contribute to open-source blockchain projects
- <br>🎲 Fun fact: bored </p>
+ <br> </p>
 
 ###
 
-<h3 align="left">Frontend :</h3>
+<h3 align="left">Tech Skills:</h3>
 
 ###
 
@@ -58,8 +58,6 @@
 
 ###
 
-<h3 align="left">Backend :</h3>
-
 ###
 
 <div align="left">
@@ -68,9 +66,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express logo" />
    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
-     <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="Solidity logo" />
+
 
 
 </div>
