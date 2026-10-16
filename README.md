@@ -24,6 +24,14 @@
 <h3 align="center">Languages</h3>
 
 <!--LANGS:START-->
+```text
+TypeScript    ███████████████████░   93.3%
+JavaScript    █░░░░░░░░░░░░░░░░░░░    3.0%
+PLpgSQL       ░░░░░░░░░░░░░░░░░░░░    1.7%
+CSS           ░░░░░░░░░░░░░░░░░░░░    0.8%
+Rust          ░░░░░░░░░░░░░░░░░░░░    0.6%
+Java          ░░░░░░░░░░░░░░░░░░░░    0.4%
+```
 <!--LANGS:END-->
 
 <h3 align="center">Stats</h3>
