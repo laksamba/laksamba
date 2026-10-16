@@ -36,7 +36,8 @@ for lang, size in top:
     bar = "█" * filled + "░" * (20 - filled)
     lines.append(f"{lang:<14}{bar}  {pct:5.1f}%")
 
-block = "<!--LANGS:START-->\n```text\n" + "\n".join(lines) + "\n```\n<!--LANGS:END-->"
+header = ["Top Languages", "-------------"]
+block = "<!--LANGS:START-->\n```text\n" + "\n".join(header + lines) + "\n```\n<!--LANGS:END-->"
 
 with open("README.md", encoding="utf-8") as f:
     text = f.read()
