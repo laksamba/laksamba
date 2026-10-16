@@ -22,6 +22,8 @@
 
 <!--LANGS:START-->
 ```text
+Top Languages
+-------------
 TypeScript    ███████████████████░   93.3%
 JavaScript    █░░░░░░░░░░░░░░░░░░░    3.0%
 PLpgSQL       ░░░░░░░░░░░░░░░░░░░░    1.7%
